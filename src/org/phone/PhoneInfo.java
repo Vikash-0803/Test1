@@ -12,6 +12,10 @@ public class PhoneInfo {
 		System.out.println("Phone MIEI Number = MIEIRedmi00086");
 	}
 	
+	public void ram() {
+		
+		System.out.println("RAM = 8GB");
+	}
 	
 	public static void main(String[] args) {
 		
