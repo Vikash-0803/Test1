@@ -12,6 +12,10 @@ public class PhoneInfo {
 		System.out.println("Phone MIEI Number = MIEIRedmi00086");
 	}
 	
+	public void battery() {
+		
+		System.out.println("Battery = 6000Mh");
+	}
 	
 	public static void main(String[] args) {
 		
